@@ -53,7 +53,7 @@ As you can see, the architecture is quite straight forward. As i tried out sever
 
 The CNN in action can be seen here, where random paintings on canvas from the artwork dataset are used and the corresponding artists are identified. The CNN is only fed with the image data itself.
 
-([https://github.com/HanSur94/ARTNet/blob/main/gif_1.gif](https://github.com/HanSur94/ARTNet/blob/main/gif_1.gif))
+![alt text](https://github.com/HanSur94/ARTNet/blob/main/gif_1.gif)
 
 ## Built With
 
